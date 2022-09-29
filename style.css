@@ -99,7 +99,9 @@ footer {
 }
 
 form {
-    margin: 40px 0;
+    width: 560px;
+    padding: 50px;
+    margin: 1em auto;
 }
 
 form label, form legend {
@@ -108,17 +110,18 @@ form label, form legend {
     margin: 0 0 10px;
 }
 .input-padrao {
+    width: 100%;
     display: block;
     margin: 0 0 20px;
     padding: 10px 25px;
-    width: 50%;
+    
 }
 .checkbox {
     margin: 20px 0;
 }
 
 .enviar {
-    width: 50%;
+    width: 110%;
     padding: 15px 0;
     background: orange;
     color: #FFFFFF;
@@ -137,7 +140,8 @@ form label, form legend {
 }
 
 table {
-    margin: 20px 40px;
+    margin: 1em auto;
+    /*margin: 20px 400px;*/
 }
 
 thead {

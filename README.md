@@ -19,4 +19,4 @@
      <img src="https://github.com/christianagomes/projeto-barbearia-alura/blob/main/imagens/contato.JPG">
 </p>
 
-Para testar acesse: [Meu gitihub pages](https://christianagomes.github.io/projeto-barbearia-alura/index.html)
+Para testar acesse: [Meu gitihub pages](https://christianagomes.github.io/projeto-barbearia-alura/)
